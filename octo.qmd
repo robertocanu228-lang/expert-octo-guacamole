@@ -16,5 +16,5 @@ Now we see.
 The `echo:false` command disables the printing of code (only output displayed)
 
 # Roberto
-Here I am. 
-It is 14:51 now I push. 
+
+Here I am.
