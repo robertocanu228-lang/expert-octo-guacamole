@@ -1,5 +1,5 @@
 ---
-title: "doc"
+title: "Expert-Octo-Guacamole"
 format: html
 editor: visual
 ---
@@ -7,3 +7,13 @@ editor: visual
 ## Quarto 4th November
 
 Now we see.
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo:false` command disables the printing of code (only output displayed)
+
+# Roberto
+Here I am. 
